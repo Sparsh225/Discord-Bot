@@ -1,6 +1,6 @@
 # Discord-Bot
 first command :- npm init
-1. created a server in bot
+1. created a server in discord
 2. in discord enabled the developer mode
 3. in discord application created a application name youtube through which we will interact with the server crearted in discord
 4. created a bot 
